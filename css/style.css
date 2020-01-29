@@ -673,8 +673,9 @@ i:before {
 }
 
 .team_people_text {
-  max-width: 540px;
+  max-width: 70%;
   float: right;
+  margin-left: 20%;
 }
 
 .team_people_text p {
@@ -682,6 +683,7 @@ i:before {
   color: #7c8d93;
   font-size: 15px;
   line-height: 28px;
+
   font-weight: 500;
   padding-bottom: 45px;
 }
@@ -757,6 +759,7 @@ i:before {
   padding: 0px 10px;
   margin-bottom: 20px;
   overflow: hidden;
+  justify-content: center;
 }
 
 .team_img_inner .team_img_item {
