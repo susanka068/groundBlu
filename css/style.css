@@ -342,13 +342,13 @@ i:before {
 
 .banner_area:before {
   content: "";
-  background: url(../img/icon/output-onlinepngtools.png) no-repeat scroll center left;
-  background-position: 0px;
+  background: url(../img/icon/output-onlinepngtools.png) no-repeat scroll center;
+  background-position: 0px 0px;
   position: absolute;
   right: 0px;
   top: 0px;
   height: 100%;
-  max-width: 1233px;
+  max-width: auto;
   width: 100%;
 }
 
@@ -919,7 +919,7 @@ i:before {
 /* Service Solution Area css
 ============================================================================================ */
 .service_solution_area {
-  background: url(../img/service-bg.jpg) no-repeat fixed center right;
+  background: url(../img/icon/19033\ [Converted].png) no-repeat fixed center right;
   background-size: cover;
   position: relative;
   z-index: 3;
